@@ -28,6 +28,7 @@ else
         <p>You are running PHP version <?= phpversion() ?></p>
 	<p>This is v1 of the app</p>
 	<p>Leonardo Camargo</p>
+	<p>Kevin Silva</p>
     </section>
 
     <section class="instructions">
