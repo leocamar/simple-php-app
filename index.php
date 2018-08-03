@@ -29,6 +29,7 @@ else
 	<p>This is v1 of the app</p>
 	<p>Leonardo Camargo</p>
 	<p>Kevin Silva</p>
+	<p>Isaac Neto</p>
     </section>
 
     <section class="instructions">
